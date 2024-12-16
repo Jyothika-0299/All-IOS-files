@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  MultiplayersInAutolayout
+//
+//  Created by FCI on 02/12/24.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+    @IBOutlet var img :UIImage!
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
